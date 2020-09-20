@@ -8,7 +8,7 @@ Generated using: https://minsw.github.io/fzf-color-picker/
 
 ## Installation
 
-Note: this works best when your terminal is also set to use a Nord colour palette.
+Note: this works best when your terminal is also set to use a Nord colour palette. The palette I use with iTerm2 can found in my dotfiles [here](https://github.com/ianchesal/dotfiles/blob/main/iterm/Nord.itermcolors).
 
 Add the following your .(zsh|bash)rc configuration to set the colours used by fzf.
 
