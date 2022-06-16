@@ -1,6 +1,6 @@
 # nord-fzf
 
-A [Nord colour palette](https://www.nordtheme.com/) for the fzf command-line fuzzy finder tool.
+A [Nord colour palette](https://www.nordtheme.com/) for the [fzf](https://github.com/junegunn/fzf) command-line fuzzy finder tool.
 
 Generated using: https://minsw.github.io/fzf-color-picker/
 
@@ -8,7 +8,7 @@ Generated using: https://minsw.github.io/fzf-color-picker/
 
 ## Installation
 
-Note: this works best when your terminal is also set to use a Nord colour palette. The palette I use with iTerm2 can found in my dotfiles [here](https://github.com/ianchesal/dotfiles/blob/main/iterm/Nord.itermcolors).
+Note: this works best when your terminal is also set to use a Nord colour palette. The palette I use with [Kitty](https://sw.kovidgoyal.net/kitty/) can found in my dotfiles [here](https://github.com/ianchesal/dotfiles/blob/main/kitty/nord.conf). My old iTerm2 settings are [here](https://github.com/ianchesal/dotfiles/blob/main/iterm/Nord.itermcolors).
 
 Add the following your .(zsh|bash)rc configuration to set the colours used by fzf.
 
